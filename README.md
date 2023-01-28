@@ -10,7 +10,7 @@ The data for generating the figures in the manuscript is found in under director
 
 
 **fig6f**
-Data files from individual experiments for each curve in Figure 6F are found under the folder corresponding to the robot type (either **aligners, or **fronters**).
+Data files from individual experiments for each curve in Figure 6F are found under the folder corresponding to the robot type (either **aligners**, or **fronters**).
 
 **fig6g**
 Data files from individual simulations for each curve in Figure 6G are found under the folder corresponding to the robot type (either **aligners, or **fronters**), under the relevant swarm size (**64**, **128**, **256**, **512**).
