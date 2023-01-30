@@ -27,7 +27,8 @@ Data files from individual simulations for each curve in Figure 7H are found und
 ##### Code
 **code**
 
-The code for simulating a swarm of force-aligning agents that collectively learn to phototaxis.
+Code for simulating a swarm of force-aligning agents that collectively learn to phototaxis.
+
 In order to run the simulation use:
 
 ```python runSimulation.py```
